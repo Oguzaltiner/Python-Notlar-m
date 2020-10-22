@@ -1,2 +1,2 @@
-# Python-Notlar-m
-Çalışmalar
+# Çalışma Notlarım
+
